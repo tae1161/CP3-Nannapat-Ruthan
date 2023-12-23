@@ -33,3 +33,5 @@ if Username == "TaeNannapat" or Password == "4848":
         print("***********")
         print("total",total,"THB")
         print("******Thank you*****")
+else :
+    print("error")
