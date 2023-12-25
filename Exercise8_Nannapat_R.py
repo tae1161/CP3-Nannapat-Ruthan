@@ -8,7 +8,7 @@ if Username == "TaeNannapat" or Password == "4848":
     print("3.","Iced tea", "25", "THB")
     print("4.","lemon tea", "25", "THB")
     print("What do you want to buy?")
-    water = int(input("ใส่ตัวเลขสินค้า:"))
+    water = int(input("ใส่ตัวเลขสินค้า:        "))
     if water == 1 :
         amout1 = int(input("ต้องการจำนวนเท่าไหร่:"))
         total = amout1*15
