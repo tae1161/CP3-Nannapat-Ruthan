@@ -10,3 +10,6 @@ with open('Lecture83.csv', mode='r') as csv_file:
         print(f'\t{row["friend"]}  {row["favorite movie"]}  {row["favorite pet"]}.')
         line_count += 1
     print(f'Processed {line_count} lines.')
+    if
+        pass
+    e
